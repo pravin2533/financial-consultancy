@@ -1,0 +1,16 @@
+{
+  "name": "fianancial-services-main",
+  "version": "1.0.0",
+  "description": "This is my first Html And CSS Project This is my project link https://dhanpriya123.github.io/Fianancial-services/Home.html u can click here.. # finance # finance # fintech # finance",
+  "main": "fin_back.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0"
+  }
+}
